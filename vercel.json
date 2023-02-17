@@ -1,0 +1,1 @@
+{ "rewrites": [ { "source": "/", "destination": "/" }, { "source": "/showfantasy", "destination": "/showfantasy"}, { "source": "/profile", "destination": "/profile" }, { "source": "/createfantasy", "destination": "/createfantasy" }, { "source": "/fantasydetails/:id", "destination": "/fantasydetails" }] }
